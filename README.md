@@ -1,4 +1,8 @@
-## Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://www.pinterest.com.au/pin/cityscape-8bit-google-search-in-2022--459648705732803018/">
+ <source media="(prefers-color-scheme: light)" srcset="https://in.cdgdbentre.com/pixel-art-gif-wallpaper-idrxffh4/">
+ <img alt="Default Image for night and day" src="https://wallpapersafari.com/w/xhg7O9">
+</picture>
 
 <!--
 **Punkhonfire/Punkhonfire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
